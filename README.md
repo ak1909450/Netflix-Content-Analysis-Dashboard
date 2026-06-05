@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Netflix Content Analysis Dashboard is an interactive Business Intelligence project developed using Power BI to analyze Netflix's content library from 2010 to 2025. The dashboard provides valuable insights into content distribution, genre popularity, language diversity, country-wise production, IMDb rating trends, and yearly content growth.
+The Netflix Content Analysis Dashboard is an interactive Excel project developed using Microsoft Excel to analyze Netflix's content library from 2010 to 2025. The dashboard provides valuable insights into content distribution, genre popularity, language diversity, country-wise production, IMDb rating trends, and yearly content growth.
 
 This project demonstrates data cleaning, transformation, data modeling, DAX calculations, and dashboard design skills to convert raw Netflix data into meaningful business insights.
 
