@@ -26,7 +26,7 @@ This dashboard aims to answer the following questions:
 
 ## Dashboard Preview
 
-<img width="100%" alt="Netflix Dashboard" src="Images/dashboard-overview.png">
+<img width="100%" alt="Netflix Dashboard" src="dashboard img.png">
 
 ---
 
