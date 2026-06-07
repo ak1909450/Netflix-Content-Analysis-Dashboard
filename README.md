@@ -52,7 +52,6 @@ Users can filter dashboard insights by:
 - Genre
 - Language
 
-### Visualizations
 
 #### Movies vs TV Shows
 Compares the percentage distribution of movies and television shows available on Netflix.
